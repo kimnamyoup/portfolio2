@@ -1,0 +1,302 @@
+@font-face {
+    font-family: 'cooper';
+    src: url('../font/COOPBL.TTF');
+}
+@font-face {
+    font-family: 'pre-bld';
+    src: url('../font/Pretendard-Bold.ttf');
+}
+@font-face {
+    font-family: 'pre-reg';
+    src: url('../font/Pretendard-Regular.ttf');
+}
+@font-face {
+    font-family: 'rad';
+    src: url('../font/Radicals.otf');
+}
+@font-face {
+    font-family: 'retro';
+    src: url('../font/Retro\ Sick\ Regular.ttf');
+}
+@font-face {
+    font-family: 'parth';
+    src: url('../font/PartialSansKR-Regular.otf');
+}
+
+.main_logo {
+    font-family: 'parth';
+    font-size: 6.4rem;
+    letter-spacing: 0.5rem;
+}
+.s1title{
+    font-family: 'parth';
+    font-size: 9.5rem; 
+    color: #E9E5D5;
+    letter-spacing: 1rem;
+    text-shadow: 0.5rem 0.5rem #000,
+    1rem  1rem #da6334;
+}
+
+.s1sb_m{
+    font-family: 'parth';
+    font-size: 6rem; 
+    color: #E9E5D5;
+    letter-spacing: 0.5rem;
+    text-shadow: 0.5rem 0.5rem #000;
+}
+.s1sb_l{
+    font-family: 'parth';
+    font-size: 6rem; 
+    color: transparent;
+    letter-spacing: 0.5rem;
+}
+.s1sb1-1-m{
+    font-family: 'parth';
+    font-size: 5rem; 
+    color: #da6334;
+    letter-spacing: 0.5rem;
+    text-shadow: 0.5rem 0.5rem #000;
+}
+.s1sb1-1-l{
+    font-family: 'parth';
+    font-size: 6.4rem; 
+    color: transparent; 
+}
+.s1sb1-2-m{
+    font-family: 'parth';
+    font-size: 5rem; 
+    color: #da6334;
+    letter-spacing: 0.5rem;
+    text-shadow: 0.5rem 0.5rem #000;
+}
+.s1sb1-2-l{
+    font-family: 'parth';
+    font-size: 6.4rem; 
+    color: transparent; 
+}
+.s1sb2-1-m{
+    font-family: 'parth';
+    font-size: 4rem; 
+    color: #E9E5D5;
+    letter-spacing: 0.5rem;
+    text-shadow: 0.5rem 0.5rem #000;
+}
+.s1sb2-1-l{
+    font-family: 'parth';
+    font-size: 5rem; 
+    color: transparent;
+}
+.s1sb2-2-m{
+    font-family: 'parth';
+    font-size: 3.8rem; 
+    color: #E9E5D5;
+    letter-spacing: 0.2rem;
+    text-shadow: 0.5rem 0.5rem #000;
+}
+.s1sb2-2-l{
+    font-family: 'parth';
+    font-size: 5rem; 
+    color: transparent;
+}
+.introduce{
+    font-family: 'parth';
+    font-size: 6.4rem; 
+    color: #E9E5D5;
+    text-shadow: 0.5rem 0.5rem #000,
+    1rem  1rem #da6334;
+    letter-spacing: 0.5rem;
+}
+.introduce_l{
+    font-family: 'parth';
+    font-size: 6.4rem; 
+    color: transparent;
+}
+.s1title_line{
+    font-family: 'parth';
+    font-size: 10rem; 
+    color: transparent;
+}
+.dep1 li a {
+    font-family: 'parth';
+    font-size: 1.7rem;
+}
+
+.tool h3 {
+    font-family: 'parth';
+    font-size: 4rem;
+    color: #E9E5D5;
+}
+.s4mtit_m{
+    font-family: 'parth';
+    font-size: 6.4rem; 
+    color: #E9E5D5;
+    letter-spacing: 0.5rem;
+    text-shadow: 0.5rem 0.5rem #000,
+    1rem  1rem #da6334;
+}
+.s4mtit_l{
+    font-family: 'parth';
+    font-size: 6.4rem; 
+    color: transparent;
+}
+.s5mtit_m{
+    font-family: 'parth';
+    font-size: 6.4rem; 
+    color: #E9E5D5;
+    text-shadow: 0.5rem 0.5rem #000,
+    1rem  1rem #da6334;
+}
+.s5mtit_l{
+    font-family: 'parth';
+    font-size: 6.4rem; 
+    color: transparent;
+}
+.s6mtit_m{
+    font-family: 'parth';
+    font-size: 6.4rem; 
+    color: #E9E5D5;
+    text-shadow: 0.5rem 0.5rem #000,
+    1rem  1rem #da6334;
+}
+.s6mtit_l{
+    font-family: 'parth';
+    font-size: 6.4rem; 
+    color: transparent;
+}
+.s7mtit_m{
+    font-family: 'parth';
+    font-size: 6.4rem; 
+    color: #E9E5D5;
+}
+.s7mtit_l{
+    font-family: 'parth';
+    font-size: 6.4rem; 
+    color: transparent;
+}
+
+.c_imgt p {
+    font-size: 2.2rem;
+    color: #E9E5D5;
+    font-weight: bold;
+}
+
+.c_txt_top p {
+    font-size: 2.2rem;
+    color: #242424;
+    font-weight: bold;
+}
+
+.ctb a {
+    color: #242424;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.s6_main .ctbapp p{
+    font-size: 1.5rem;
+    color: #242424;
+    font-weight: bold;
+}
+
+.cidx_items{
+font-family: 'pre-bld';
+}
+.outline{
+    font-family: 'cooper';
+}
+.ift1{
+    font-family: 'parth';
+    font-size: 4.8rem;
+    color: #E9E5D5;
+    letter-spacing: 0.1rem;
+}
+table{
+    font-family: 'pre-reg';
+    font-size: 1.5rem;
+    color: #E9E5D5;
+}
+.itemtitle{
+    font-family: 'parth';
+    font-size: 6.4rem;
+    color: #E9E5D5;
+    letter-spacing: 0.1rem;
+}
+.detail_btn a{
+    font-family: 'pre-bld';
+    font-size: 1.5rem;
+    color: #E9E5D5;
+}
+.mo_idx li a{
+    font-size: 3rem;
+    font-family: 'parth';
+    color: #E9E5D5;
+}
+.sumb{
+    font-family: 'pre-bld';
+    font-size: 1.5rem;
+}
+.int_txt1{
+    font-size: 5rem;
+    font-family: 'pre-bld';
+    color: #E9E5D5;
+}
+.int_c{
+    color: #E65512;
+}
+.prof h3 {
+    font-family: 'parth';
+    font-size: 4rem;
+    color: #E9E5D5;
+    letter-spacing: 0.1rem;
+
+}
+.prof_in{
+    color: #E9E5D5;
+    font-size: 2rem;
+    font-family: 'pre-reg';
+}
+.educ h3 {
+    font-family: 'parth';
+    font-size: 4rem;
+    color: #E9E5D5;
+    letter-spacing: 0.1rem;
+
+}
+.edu_in{
+    color: #E9E5D5;
+    font-size: 2rem;
+    font-family: 'pre-reg';
+}
+.res_inner{
+    font-size: 2rem;
+    color: #E9E5D5;
+}
+.resume h3 {
+    font-size: 4rem;
+    color: #E9E5D5;
+    font-family: 'parth';
+    letter-spacing: 0.1rem;
+}
+.cube_con_btn li a{
+font-family: 'pre-bld';
+
+}
+.des_dt{
+    font-size: 3rem;
+    color: #E9E5D5;
+    font-family: 'parth';
+}
+.des_t{
+    color: #E9E5D5;
+    font-size: 2rem;
+    font-family: 'parth';
+}
+.s7_text span {
+    font-size: 11rem;
+    color: #E9E5D5;
+    font-family: 'parth';
+}
+.hover_btn{
+    font-family: 'parth';
+    color: #E65512;
+    font-size: 3rem;
+}
