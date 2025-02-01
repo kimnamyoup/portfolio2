@@ -1621,7 +1621,7 @@ th, td {
     background-position: 100% 100%;
 }
 .di4 .web_img{
- background: url('../images/webimg/cms_web.JPG')no-repeat 0% 0%/cover ;
+ background: url('../images/webimg/kepco.png')no-repeat 0% 0%/cover ;
  overflow: hidden;
  transition: filter .3s, background-position 3s;
 }
