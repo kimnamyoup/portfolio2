@@ -103,7 +103,7 @@ $(function(){
         $(this).addClass('on').siblings().removeClass('on')
         $('.d2item').hide()
         let idx = $(this).index()
-       console.log(idx)
+    //    console.log(idx)
        $('.d2item').eq(idx).fadeIn()
      })
     
@@ -143,7 +143,7 @@ $(function(){
            if($(this).offset().top <= $(window).scrollTop()+100){
                $('.mo_idx li').removeClass('on')
                let idx = $(this).index() //this= section
-               console.log(idx)
+            //    console.log(idx)
                $('.mo_idx  li').eq(idx).addClass('on')
            }else if($('.s1').offset().top >= $(window).scrollTop()){
              $('.mo_idx  li').removeClass('on')

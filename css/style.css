@@ -526,7 +526,7 @@ body{
         top: 28.5rem; left: 76rem;
     }
     100%{
-        top: 28.5rem; left: 31rem;
+        top: 28.4rem; left: 31rem;
     }
 }
 @keyframes r5b {
@@ -2023,6 +2023,7 @@ th, td {
 .s5 .c4 .logo_img{
     width: 25rem;
     background:url('../images/logo/stz.png')no-repeat center center/contain;
+    filter: invert(50%);
 }
 .diflex{
     width: 100%;
@@ -2676,7 +2677,7 @@ th, td {
     background-position: 100% 100%;
   }
   .bo{
-    background:url('../images/webimg/caf24.JPG')no-repeat 0% 0%/cover;
+    background:url('../images/webimg/cafe24.png')no-repeat 0% 0%/cover;
    transform: rotateX(-90deg) translateZ(25rem);
    transition: background-position 3s;
    border:0.8rem  solid #000;
